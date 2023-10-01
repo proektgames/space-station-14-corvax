@@ -25,7 +25,7 @@ using Content.Shared.Database;
 using Content.Shared.Light.Component;
 using Robust.Server.GameObjects;
 using Robust.Shared.Asynchronous;
-using PlayerData = Content.Server.Players.PlayerData;
+//using PlayerData = Content.Server.Players.PlayerData;
 
 
 namespace Content.Server.GameTicking
