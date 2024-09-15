@@ -1,3 +1,5 @@
+ent-ClothingShoesBootsMagBase = magboots
+    .desc = Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
 ent-ClothingShoesBootsMag = магнитные сапоги
     .desc = Магнитные сапоги, используемые во время работы вне корабля, чтобы оставаться надёжно прикреплённым к поверхности.
 ent-ClothingShoesBootsMagAdv = продвинутые магнитные сапоги
@@ -7,6 +9,6 @@ ent-ClothingShoesBootsMagSci = { ent-ClothingShoesBootsMag }
 ent-ClothingShoesBootsMagBlinding = магнитные сапоги ослепляющей скорости
     .desc = Они будут отлично смотреться на ловкаче вроде вас.
 ent-ClothingShoesBootsMagSyndie = кроваво-красные магнитные сапоги
-    .desc = Созданные по технологии реверс-инжиниринга магнитные ботинки с встроенными ускорителями.
+    .desc = Созданные по технологии реверс-инжиниринга магнитные ботинки с встроенными ускорителями. Вмещает 0,75 Л газа.
 ent-ActionToggleMagboots = Переключить магнитные ботинки
     .desc = Включает или выключает магнитные ботинки.
